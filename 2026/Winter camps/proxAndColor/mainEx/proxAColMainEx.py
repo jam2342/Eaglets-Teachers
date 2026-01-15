@@ -29,3 +29,4 @@ except KeyboardInterrupt:
     print("\nStopping...")
 except Exception as e:
     print(f"\nError: {e}")
+    
